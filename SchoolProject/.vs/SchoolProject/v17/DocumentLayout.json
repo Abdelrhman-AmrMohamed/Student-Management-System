@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\departmentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\departmentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\models\\getdepartmentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\models\\getdepartmentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\studentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\studentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\dto\\getdepartmentlistquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\dto\\getdepartmentlistquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\studentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\studentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\mapping\\studentsmapper\\querymapping\\getstudentbyidquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\mapping\\studentsmapper\\querymapping\\getstudentbyidquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\dto\\getstudentlistquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\dto\\getstudentlistquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\mapping\\departmentmapper\\querymapping\\getdepartmentlistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\mapping\\departmentmapper\\querymapping\\getdepartmentlistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\mapping\\studentsmapper\\querymapping\\getstudentlistquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\mapping\\studentsmapper\\querymapping\\getstudentlistquerymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\mapping\\departmentmapper\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\mapping\\departmentmapper\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.infrastructure\\moduleinfrastructuredependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\moduleinfrastructuredependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\modulecoredependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\modulecoredependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.infrastructure\\repositories\\deparmtentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\repositories\\deparmtentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.infrastructure\\repositories\\bases\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\repositories\\bases\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\moduleservicedependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\moduleservicedependancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\schoolproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\schoolproject.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|solutionrelative:schoolproject.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|solutionrelative:schoolproject.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.api\\base\\appcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|solutionrelative:schoolproject.api\\base\\appcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\mapping\\studentsmapper\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\mapping\\studentsmapper\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D387E945-813B-4F11-91D5-BD4DCA64BEC3}|SchoolProject.Data\\SchoolProject.Data.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.data\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D387E945-813B-4F11-91D5-BD4DCA64BEC3}|SchoolProject.Data\\SchoolProject.Data.csproj|solutionrelative:schoolproject.data\\entities\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\repository\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\repository\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.infrastructure\\repositories\\bases\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77811177-6078-408E-A6CE-E22BF67A9872}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\repositories\\bases\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.service\\repository\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEDA387-A34F-47D7-B481-B1AB97255419}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\repository\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetStudentListQueryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\DTO\\GetStudentListQueryDTO.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\DTO\\GetStudentListQueryDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\DTO\\GetStudentListQueryDTO.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\DTO\\GetStudentListQueryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:26:38.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleCoreDependancies.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\ModuleCoreDependancies.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\ModuleCoreDependancies.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\ModuleCoreDependancies.cs",
+              "RelativeToolTip": "SchoolProject.Core\\ModuleCoreDependancies.cs",
+              "ViewState": "AgIAAAIAAAAAZmZmZmYkwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:23:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModuleInfrastructureDependancies.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\ModuleInfrastructureDependancies.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\ModuleInfrastructureDependancies.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\ModuleInfrastructureDependancies.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\ModuleInfrastructureDependancies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:23:14.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModuleServiceDependancies.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\ModuleServiceDependancies.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\ModuleServiceDependancies.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\ModuleServiceDependancies.cs",
+              "RelativeToolTip": "SchoolProject.Service\\ModuleServiceDependancies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:22:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolProject.Service",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\SchoolProject.Service.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
+              "RelativeToolTip": "SchoolProject.Service\\SchoolProject.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T09:22:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Base\\AppControllerBase.cs",
+              "RelativeDocumentMoniker": "SchoolProject.API\\Base\\AppControllerBase.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Base\\AppControllerBase.cs",
+              "RelativeToolTip": "SchoolProject.API\\Base\\AppControllerBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABIPQcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:16:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolProject.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolProject.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABMPQwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:16:03.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SchoolProject.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SchoolProject.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAEAAAAoMzMzMzMvwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:16:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentByIDHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "ViewState": "AgIAABQAAAAA/f////8PwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:12:16.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Mapping\\StudentsMapper\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\StudentProfile.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:06:31.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetStudentByIDQueryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentByIDQueryMapping.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentByIDQueryMapping.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentByIDQueryMapping.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentByIDQueryMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:05:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStudentListQueryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentListQueryMapping.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentListQueryMapping.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentListQueryMapping.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentListQueryMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:04:59.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDepartmentListMapping.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\DepartmentMapper\\QueryMapping\\GetDepartmentListMapping.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Mapping\\DepartmentMapper\\QueryMapping\\GetDepartmentListMapping.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\DepartmentMapper\\QueryMapping\\GetDepartmentListMapping.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Mapping\\DepartmentMapper\\QueryMapping\\GetDepartmentListMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:04:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\DepartmentMapper\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Mapping\\DepartmentMapper\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Mapping\\DepartmentMapper\\DepartmentProfile.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Mapping\\DepartmentMapper\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:50:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
+              "ViewState": "AgIAAAgAAAAQMzMzMzMwwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:45:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "ViewState": "AgIAAAwAAAAAMjMzMzMfwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:45:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\Entities\\Departments.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Data\\Entities\\Departments.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Data\\Entities\\Departments.cs",
+              "RelativeToolTip": "SchoolProject.Data\\Entities\\Departments.cs",
+              "ViewState": "AgIAAAMAAACoZWZmZmYkwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:44:53.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetDepartmentListQueryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\DTO\\GetDepartmentListQueryDTO.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\DTO\\GetDepartmentListQueryDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\DTO\\GetDepartmentListQueryDTO.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\DTO\\GetDepartmentListQueryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:44:43.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetStudentListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Models\\GetStudentListQuery.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Models\\GetStudentListQuery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:43:43.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDepartmentListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Models\\GetDepartmentListQuery.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Models\\GetDepartmentListQuery.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Models\\GetDepartmentListQuery.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Models\\GetDepartmentListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:43:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Repository\\StudentService.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\Repository\\StudentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Repository\\StudentService.cs",
+              "RelativeToolTip": "SchoolProject.Service\\Repository\\StudentService.cs",
+              "ViewState": "AgIAAA8AAADgyszMzMwmwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:31:56.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeparmtentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\DeparmtentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Repositories\\DeparmtentRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\DeparmtentRepository.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\DeparmtentRepository.cs",
+              "ViewState": "AgIAAAIAAABAZmZmZmYmwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:29:53.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\Interface\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "SchoolProject.Service\\Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:27:33.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Repository\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\Repository\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Repository\\DepartmentService.cs",
+              "RelativeToolTip": "SchoolProject.Service\\Repository\\DepartmentService.cs",
+              "ViewState": "AgIAAAQAAAAgzMzMzMwtwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:27:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Interface\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\Interface\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\Interface\\IDepartmentService.cs",
+              "RelativeToolTip": "SchoolProject.Service\\Interface\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:27:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:26:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\Bases\\GenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Repositories\\Bases\\GenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\Bases\\GenericRepositoryAsync.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\Bases\\GenericRepositoryAsync.cs",
+              "ViewState": "AgIAADcAAADgyszMzEwywAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:24:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\Bases\\IGenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Repositories\\Bases\\IGenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Infrastructure\\Repositories\\Bases\\IGenericRepositoryAsync.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\Bases\\IGenericRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:24:32.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
