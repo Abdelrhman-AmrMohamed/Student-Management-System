@@ -1,5 +1,5 @@
 **Student Management System API**
-- A Web API for managing students and departments, providing an interactive and structured environment for learning management and administration. Supports CRUD operations on students and departments with JWT authentication, validation, and centralized error handling.
+- A Web API for an e-learning platform providing an interactive educational environment for students and instructors, supporting course management, study materials, and departmental resources.
 
 **Features**
 - CRUD operations on Students and Departments
