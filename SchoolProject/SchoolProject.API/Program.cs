@@ -23,6 +23,7 @@ namespace SchoolProject.API
                 options.UseSqlServer(builder.Configuration.GetConnectionString("dbcontext"));
             });
             builder.Services.AddInfrastructureDependancies().AddServiceDependancies().AddCoreDependancies();
+            builder.Services.AddMemoryCache();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

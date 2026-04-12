@@ -134,8 +134,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\DTO\\GetStudentListQueryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:26:38.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:26:38.742Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "SchoolProject.Core\\ModuleCoreDependancies.cs",
               "ViewState": "AgIAAAIAAAAAZmZmZmYkwAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:23:49.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:23:49.533Z"
             },
             {
               "$type": "Document",
@@ -160,8 +158,7 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\ModuleInfrastructureDependancies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:23:14.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:23:14.305Z"
             },
             {
               "$type": "Document",
@@ -173,21 +170,19 @@
               "RelativeToolTip": "SchoolProject.Service\\ModuleServiceDependancies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:22:44.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:22:44.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "SchoolProject.Service",
+              "Title": "SchoolProject.Service.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
               "RelativeDocumentMoniker": "SchoolProject.Service\\SchoolProject.Service.csproj",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Service\\SchoolProject.Service.csproj",
               "RelativeToolTip": "SchoolProject.Service\\SchoolProject.Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-06T09:22:40.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:22:40.551Z"
             },
             {
               "$type": "Document",
@@ -199,8 +194,7 @@
               "RelativeToolTip": "SchoolProject.API\\Base\\AppControllerBase.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAABIPQcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:16:20.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:16:20.406Z"
             },
             {
               "$type": "Document",
@@ -212,8 +206,7 @@
               "RelativeToolTip": "SchoolProject.API\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAABMPQwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:16:03.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:16:03.75Z"
             },
             {
               "$type": "Document",
@@ -225,8 +218,7 @@
               "RelativeToolTip": "SchoolProject.API\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAEAAAAoMzMzMzMvwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:16:01.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:16:01.826Z"
             },
             {
               "$type": "Document",
@@ -238,8 +230,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
               "ViewState": "AgIAABQAAAAA/f////8PwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:12:16.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:12:16.237Z"
             },
             {
               "$type": "Document",
@@ -251,8 +242,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\StudentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:06:31.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:06:31.144Z"
             },
             {
               "$type": "Document",
@@ -264,8 +254,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentByIDQueryMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:05:22.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:05:22.781Z"
             },
             {
               "$type": "Document",
@@ -277,8 +266,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Mapping\\StudentsMapper\\QueryMapping\\GetStudentListQueryMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:04:59.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:04:59.185Z"
             },
             {
               "$type": "Document",
@@ -290,8 +278,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Mapping\\DepartmentMapper\\QueryMapping\\GetDepartmentListMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:04:56.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:04:56.477Z"
             },
             {
               "$type": "Document",
@@ -303,8 +290,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Mapping\\DepartmentMapper\\DepartmentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:50:57.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:50:57.742Z"
             },
             {
               "$type": "Document",
@@ -316,8 +302,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
               "ViewState": "AgIAAAgAAAAQMzMzMzMwwB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:45:50.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:45:50.836Z"
             },
             {
               "$type": "Document",
@@ -342,8 +327,7 @@
               "RelativeToolTip": "SchoolProject.Data\\Entities\\Departments.cs",
               "ViewState": "AgIAAAMAAACoZWZmZmYkwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:44:53.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:44:53.145Z"
             },
             {
               "$type": "Document",
@@ -355,8 +339,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\DTO\\GetDepartmentListQueryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:44:43.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:44:43.397Z"
             },
             {
               "$type": "Document",
@@ -368,8 +351,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Models\\GetStudentListQuery.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAjwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:43:43.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:43:43.44Z"
             },
             {
               "$type": "Document",
@@ -381,8 +363,7 @@
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Models\\GetDepartmentListQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:43:35.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:43:35.792Z"
             },
             {
               "$type": "Document",
@@ -394,8 +375,7 @@
               "RelativeToolTip": "SchoolProject.Service\\Repository\\StudentService.cs",
               "ViewState": "AgIAAA8AAADgyszMzMwmwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:31:56.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:31:56.759Z"
             },
             {
               "$type": "Document",
@@ -407,8 +387,7 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\DeparmtentRepository.cs",
               "ViewState": "AgIAAAIAAABAZmZmZmYmwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:29:53.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:29:53.372Z"
             },
             {
               "$type": "Document",
@@ -420,8 +399,7 @@
               "RelativeToolTip": "SchoolProject.Service\\Interface\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:27:33.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:27:33.963Z"
             },
             {
               "$type": "Document",
@@ -433,8 +411,7 @@
               "RelativeToolTip": "SchoolProject.Service\\Repository\\DepartmentService.cs",
               "ViewState": "AgIAAAQAAAAgzMzMzMwtwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:27:24.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:27:24.081Z"
             },
             {
               "$type": "Document",
@@ -446,8 +423,7 @@
               "RelativeToolTip": "SchoolProject.Service\\Interface\\IDepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:27:18.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:27:18.378Z"
             },
             {
               "$type": "Document",
@@ -459,8 +435,7 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:26:09.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:26:09.018Z"
             },
             {
               "$type": "Document",
@@ -472,8 +447,7 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\Bases\\GenericRepositoryAsync.cs",
               "ViewState": "AgIAADcAAADgyszMzEwywAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:24:35.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:24:35.361Z"
             },
             {
               "$type": "Document",
@@ -485,8 +459,7 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\Bases\\IGenericRepositoryAsync.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T08:24:32.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T08:24:32.784Z"
             }
           ]
         }
