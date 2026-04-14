@@ -19,3 +19,4 @@ C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProjec
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.pdb
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.genruntimeconfig.cache
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.Core\obj\Debug\net8.0\ref\SchoolProject.Core.dll
+C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.Core\obj\Debug\net8.0\SchoolProject.Core.sourcelink.json

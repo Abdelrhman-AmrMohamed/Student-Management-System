@@ -154,3 +154,4 @@ C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProjec
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\DELL\Desktop\.net sources\Clean Architecture\SchoolProject\SchoolProject.API\obj\Debug\net8.0\SchoolProject.API.sourcelink.json

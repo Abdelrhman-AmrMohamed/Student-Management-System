@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\commands\\handler\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\commands\\handler\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\departmentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\departmentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\bases\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\bases\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\studentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\studentlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.core\\features\\queries\\handlers\\studentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A2A062-6FAD-4D19-B44E-18E30EAC71E7}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\queries\\handlers\\studentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|solutionrelative:schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|c:\\users\\dell\\desktop\\.net sources\\clean architecture\\schoolproject\\schoolproject.api\\schoolproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB4B1FB5-AC10-4BDC-9E35-0B5AEC707150}|SchoolProject.API\\SchoolProject.API.csproj|solutionrelative:schoolproject.api\\schoolproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolProject.API",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\SchoolProject.API.csproj",
+              "RelativeDocumentMoniker": "SchoolProject.API\\SchoolProject.API.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\SchoolProject.API.csproj",
+              "RelativeToolTip": "SchoolProject.API\\SchoolProject.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T17:21:22.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Bases\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Bases\\CacheKeys.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Bases\\CacheKeys.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Bases\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:21:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentByIDHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentByIDHandler.cs",
+              "ViewState": "AgIAABIAAACAmJmZmZkdwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:55:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Commands\\Handler\\AddStudentHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Commands\\Handler\\AddStudentHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Commands\\Handler\\AddStudentHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Commands\\Handler\\AddStudentHandler.cs",
+              "ViewState": "AgIAAC4AAACgmZmZmZkpwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:37:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\DepartmentListHandler.cs",
+              "ViewState": "AgIAABwAAADAYmZmZmYawCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:31:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentListHandler.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
               "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
               "RelativeToolTip": "SchoolProject.Core\\Features\\Queries\\Handlers\\StudentListHandler.cs",
-              "ViewState": "AgIAABQAAAAA+f/////5vyIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAA+f/////5vyEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T21:55:22.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Program.cs",
               "RelativeDocumentMoniker": "SchoolProject.API\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\.net sources\\Clean Architecture\\SchoolProject\\SchoolProject.API\\Program.cs",
               "RelativeToolTip": "SchoolProject.API\\Program.cs",
-              "ViewState": "AgIAAAMAAADQAgAAAAAFwBkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAADAZ2ZmZuYcwBwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T21:42:52.481Z",
               "EditorCaption": ""

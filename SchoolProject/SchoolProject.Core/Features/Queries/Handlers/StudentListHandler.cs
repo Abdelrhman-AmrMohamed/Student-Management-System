@@ -26,12 +26,12 @@ namespace SchoolProject.Core.Features.Queries.Handlers
         #region HandleFucntion
         public async Task<Response<List<GetStudentListQueryDTO>>> Handle(GetStudentListQuery request, CancellationToken cancellationToken)
         {
-            string CacheKey = "StudentList";
-            if (_cache.TryGetValue(CacheKey, out List<GetStudentListQueryDTO> cachestudentlist))
+
+            if (_cache.TryGetValue(CacheKeys.GetStudentList, out List<GetStudentListQueryDTO> cachestudentlist))
                 return Success(cachestudentlist);
             var StudentList = await _studentService.GetListStudentAsync();
             var StudentListMapper = _mapper.Map<List<GetStudentListQueryDTO>>(StudentList);
-            _cache.Set(CacheKey, StudentListMapper, TimeSpan.FromMinutes(10));
+            _cache.Set(CacheKeys.GetStudentList, StudentListMapper, TimeSpan.FromMinutes(10));
             return Success(StudentListMapper);
         }
         #endregion
